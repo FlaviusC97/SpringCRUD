@@ -9,3 +9,5 @@ A Web, using Thymeleaf and Spring Boot for the Employee where users should be ab
 *Authentication and Authorization: only admins can delete employees and employees can modify their data or add data
 
 *Database connectivity: linking the site to the mysql database
+
+![Screenshot 2024-08-20 140817](https://github.com/user-attachments/assets/d5dfcf44-353c-4ab8-b89e-c6feeb995058)
